@@ -7,7 +7,7 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background: linear-gradient(
     45deg,
-    rgba(88, 89, 91, 1) 0%,
+    rgb(65, 65, 65) 0%,
     rgba(101, 147, 166, 1) 100%
   );
 }
